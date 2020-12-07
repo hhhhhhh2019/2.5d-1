@@ -1,0 +1,1 @@
+res = width, height = 720, 480
